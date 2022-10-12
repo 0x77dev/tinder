@@ -2,7 +2,7 @@
   "name": "@tinder-tools/workspace",
   "repository": "git@github.com:0x77dev/tinder.git",
   "author": "Mykhailo Marynenko <0x77dev@protonmail.com>",
-  "license": "GPL-3.0",
+  "license": "AGPL-3.0",
   "workspaces": [
     "./*"
   ],

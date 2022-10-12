@@ -39,4 +39,4 @@ You can find more information about the CLI commands in the [CLI README](./cli/R
 
 ## License
 
-Licensed under GPL-3.0 License. See [LICENSE](LICENSE) for more information.
+Licensed under AGPL-3.0 License. See [LICENSE](LICENSE) for more information.

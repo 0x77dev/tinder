@@ -1,5 +1,5 @@
 {
-  "license": "GPL-3.0",
+  "license": "AGPL-3.0",
   "main": "build/index.js",
   "name": "@tinder-tools/api",
   "packageManager": "yarn@3.2.3",
