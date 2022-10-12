@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# yarn/berry gitignore
+.yarn/*
+!.yarn/releases
+!.yarn/cache
+!.yarn/plugins
+
+build/
+tmp
+.DS_Store

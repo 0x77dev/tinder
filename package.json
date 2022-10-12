@@ -1,0 +1,27 @@
+{
+  "name": "@tinder-tools/workspace",
+  "repository": "git@github.com:0x77dev/tinder.git",
+  "author": "Mykhailo Marynenko <0x77dev@protonmail.com>",
+  "license": "GPL-3.0",
+  "workspaces": [
+    "./*"
+  ],
+  "private": true,
+  "packageManager": "yarn@3.2.3",
+  "devDependencies": {
+    "@types/eslint": "^8",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "eslint": "latest",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1",
+    "nx": "14.8.2",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "pretest": "npm run lint && tsc --noEmit",
+    "lint": "eslint . --cache --fix --ext .ts,.tsx"
+  }
+}
