@@ -1,8 +1,10 @@
 # Tinder Research
 
-This is a repository for the Tinder Research project. The goal of this project is to analyze the data from the Tinder API to create datasets that can be used for further research purposes.
+The goal of this project is to analyze the data from the Tinder API to create datasets that can be used for further research purposes.
 
 In future this research will be used to automate the process of finding a matches on Tinder.
+
+_Not affiliated with Match Group, InterActiveCorp or Tinder Inc. Created for educational purposes only. Data collection might be illegal. This repository does not contains any data collected from Tinder services._
 
 ## CLI
 
